@@ -2,7 +2,7 @@
 
 Dmytro Ilienko
 
-This repository serves as a code source for the diploma thesis submitted in May 2021 at the University of Economics. The diploma thesis deals with the possibility of using reinforcement learning when investing in BTC. The files contain code used in the mentioned work.
+This repository serves as a code source for the diploma thesis submitted in May 2021 at the University of Economics. The master thesis deals with the possibility of using reinforcement learning when investing in BTC. The files contain code used in the mentioned work.
 
 
 The notebooks were used in the Google Collaboratory environment.
